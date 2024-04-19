@@ -1,0 +1,13 @@
+name: cilia
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - opencv
+  - numpy
+  - matplotlib
+  - scipy
+  - imageio
+  - scikit-image
+  - ffmpeg
+  - wget
